@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rabahmilano/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://rabahmilano.github.io/product-preview-card-component-main)
+- Solution URL: [Click here to visit](https://github.com/rabahmilano/product-preview-card-component-main)
+- Live Site URL: [Click here to visit](https://rabahmilano.github.io/product-preview-card-component-main)
 
 ## My process
 
